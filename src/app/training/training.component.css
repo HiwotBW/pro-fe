@@ -1,0 +1,13 @@
+.list{
+    list-style: disc;
+    padding-left: 45px;
+}
+.register-button{
+    font-size: 18px;
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+}
+.image{
+    margin-top: 70px;
+}

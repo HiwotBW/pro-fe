@@ -11,6 +11,7 @@ import { HomeComponent } from './home/home.component';
 import { AboutUsComponent } from './about-us/about-us.component';
 import { ContactUsComponent } from './contact-us/contact-us.component';
 import { ItconsultingComponent } from './itconsulting/itconsulting.component';
+import { TrainingComponent } from './training/training.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ItconsultingComponent } from './itconsulting/itconsulting.component';
     HomeComponent,
     AboutUsComponent,
     ContactUsComponent,
-    ItconsultingComponent
+    ItconsultingComponent,
+    TrainingComponent
   ],
   imports: [
     BrowserModule,
